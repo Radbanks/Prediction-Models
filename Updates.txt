@@ -1,0 +1,7 @@
+Update 1:
+I've tampered with some of the markdown features on Juypter notebook and have discovered some cool things to spice-up our presentation of this project.
+https://towardsdatascience.com/15-tips-and-tricks-for-jupyter-notebook-that-will-ease-your-coding-experience-e469207ac95c
+
+Here's the link to some documentation, 13.Share Jupyter Notebooks, this section is intersting because i think it provides us the ability to work live on juypter notebook, please read it 
+
+As far as the presentation info is concerned, use part 12. Creating Presentation from Jupyter Notebook, this will give our Notebook some nice presentation while attending those calls on Saturday.
